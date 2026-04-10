@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run tuple exercises tests",
+      "setup": "pip install pytest",
+      "run": "pytest -q",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 100
+    }
+  ]
+}
